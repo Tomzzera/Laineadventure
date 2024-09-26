@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfólio de Arte e História">
+    <title>Meu Trabalho de Arte e História</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #ff4500;
+            text-shadow: 2px 2px #000;
+            margin-bottom: 20px;
+        }
+
+        .main-content {
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .comic-style {
+            background-color: #fdfd96;
+            padding: 20px;
+            border: 2px solid #000;
+            border-radius: 5px;
+            box-shadow: 4px 4px 0 #000;
+        }
+
+        a {
+            color: #ff4500;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Meu Universo de Arte e História!</h1>
+        <div class="main-content comic-style">
+            <p>
+                Aqui você vai encontrar minhas criações, uma combinação única de arte e história. Cada peça carrega uma história e uma perspectiva nova.
+            </p>
+            <p>
+                Sinta-se à vontade para explorar, aprender e se inspirar com o que compartilho aqui. Espero que goste desta viagem visual e histórica!
+            </p>
+            <p>
+                Em breve, haverá mais atualizações e novos conteúdos. Fique atento!
+            </p>
+            <p>
+                Entre em contato para saber mais ou colaborar: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
